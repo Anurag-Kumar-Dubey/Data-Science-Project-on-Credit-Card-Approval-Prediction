@@ -9,7 +9,7 @@ streamlit-lottie==0.0.3
 missingno
 matplotlib
 seaborn
-pandas_profiling
+ydata-profiling
 pathlib
 scipy
 scikit-plot
