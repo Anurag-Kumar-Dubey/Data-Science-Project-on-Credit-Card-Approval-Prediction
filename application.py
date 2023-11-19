@@ -438,7 +438,7 @@ lottie_loading_an = load_lottieurl('https://assets3.lottiefiles.com/packages/lf2
 def make_prediction():
 
     # Load the model from a local file
-    model = joblib.load("saved_models/gradient_boosting_model.sav")
+    model = joblib.load("saved_models_final\gradient_boosting/gradient_boosting_model.sav")
 
     # Perform the prediction using the loaded model
     return model.predict(profile_to_pred_prep)
