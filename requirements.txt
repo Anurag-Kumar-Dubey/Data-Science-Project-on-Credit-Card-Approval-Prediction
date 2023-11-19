@@ -14,4 +14,3 @@ pathlib
 scipy
 scikit-plot
 yellowbrick
-scipy
